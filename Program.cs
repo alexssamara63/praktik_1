@@ -40,6 +40,7 @@ namespace praktik_1
                 Console.WriteLine($"x1={x}");
             }
             Console.ReadLine();
+            123
         }
 
     }
