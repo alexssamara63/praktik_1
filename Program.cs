@@ -40,7 +40,7 @@ namespace praktik_1
                 Console.WriteLine($"x1={x}");
             }
             Console.WriteLine("Нажмите Enter для завершения");
-            Console.WriteLine("Rimpac");
+            Console.WriteLine("Rimpac forever");
             Console.ReadLine();
 
         }
