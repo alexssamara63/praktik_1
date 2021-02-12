@@ -39,8 +39,10 @@ namespace praktik_1
                 Console.WriteLine("Так как дискриминант равен 0, то уравнение имеет одно решение.");
                 Console.WriteLine($"x1={x}");
             }
+            Console.WriteLine("Нажмите Enter для завершения");
+            Console.WriteLine("Rimpac");
             Console.ReadLine();
-            123
+
         }
 
     }
